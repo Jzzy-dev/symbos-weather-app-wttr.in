@@ -1,10 +1,3 @@
-# symbos-weather-app-wttr.in
-A symbos weather app that retrieves data over tcp from wttr.in
-
-<a href="https://msx.pics/image/xtMFN"><img src="https://msx.pics/images/2026/10/14/wttr1.md.jpeg" alt="wttr1" border="0"></a>
-
-<a href="https://msx.pics/image/xtNLo"><img src="https://msx.pics/images/2026/10/14/wttr2.md.jpeg" alt="wttr2" border="0"></a>
-
 # wttr.in for SymbOS (MSX2)
 
 Shows the standard 125-column wttr.in report, with its colours, in a SymbOS
