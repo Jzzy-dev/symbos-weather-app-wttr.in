@@ -19,7 +19,9 @@ Menus:
 The title bar shows which location is displayed. The status bar shows the
 download size or any network/HTTP error.
 
-![preview](test/default.png)
+[![wttr1](https://msx.pics/images/2026/10/14/wttr1.md.jpeg)](https://msx.pics/image/xtMFN)
+
+[![wttr2](https://msx.pics/images/2026/10/14/wttr2.md.jpeg)](https://msx.pics/image/xtNLo)
 
 `test/default.png` is rendered from wttr.in's own test output using the exact
 line buffers the app builds. The preview scales pixels 2×4 to match MSX2
